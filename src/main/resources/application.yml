@@ -1,6 +1,6 @@
 spring:
   redis:
-    host: 106.53.53.176
+    host:
     port: 6379
     database: 0
     timeout: 10000 #连接超时时间(毫秒)
